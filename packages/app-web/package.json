@@ -4,7 +4,7 @@
   "description": "Your playground for cryptography, coding & data",
   "author": "Fränz Friederes <fraenz@frieder.es> (https://fraenz.frieder.es/)",
   "license": "MIT",
-  "homepage": "https://ciphereditor.com/",
+  "homepage": "https://ciphereditor.vercel.app/",
   "scripts": {
     "test": "ts-standard && tsc --noEmit",
     "build": "vite build",
