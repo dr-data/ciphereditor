@@ -27,7 +27,10 @@ const defaultUIState: UIState = {
   embedMaximizable: false,
   embedMaximized: false,
 
-  shareBaseUrl: 'https://app.ciphereditor.com/',
+  //shareBaseUrl: 'https://app.ciphereditor.com/',
+
+  shareBaseUrl: 'https://ciphereditor.vercel.app/',
+
 
   canvasState: 'idle',
 
